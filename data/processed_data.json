@@ -1,0 +1,2034 @@
+{
+  "course_data": [
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Jan 2025: Tools in Data ScienceDevelopment ToolsEditor: VS CodePython tools: uvJavaScript tools: npxUnicodeBrowser: DevToolsCSS SelectorsJSONTerminal: BashSpreadsheet: Excel, Google SheetsDatabase: SQLiteVersion Control: Git, GitHubDeployment ToolsMarkdownImages: CompressionStatic hosting: GitHub PagesNotebooks: Google ColabServerless hosting: VercelCI/CD: GitHub ActionsContainers: Docker, PodmanTunneling: ngrokCORSREST APIsWeb Framework: FastAPILocal LLMs: LlamafileLarge Language ModelsPrompt engineeringTDS TA InstructionsTDS GPT ReviewerLLM Sentiment AnalysisLLM Text ExtractionBase 64 EncodingVision ModelsEmbeddingsTopic modelingVector databasesRetrieval Augmented GenerationFunction CallingProject 1Data SourcingScraping with ExcelScraping with Google SheetsBBC Weather API with PythonScraping IMDb with JavaScriptNominatim API with PythonWikipedia Data with PythonScraping PDFs with TabulaConvert PDFs to MarkdownLLM Website ScrapingLLM Video Screen-ScrapingScheduled Scraping with GitHub ActionsScraping emarketer.comScraping: Live SessionsData PreparationData Cleansing in ExcelData Transformation in ExcelSplitting Text in ExcelData Aggregation in ExcelData Preparation in the ShellData Preparation in the EditorCleaning Data with OpenRefineProfiling Data with PythonParsing JSONTransforming ImagesExtracting Audio and TranscriptsData AnalysisCorrelation with ExcelRegression with ExcelForecasting with ExcelOutlier Detection with ExcelData Analysis with PythonData Analysis with SQLData Analysis with DuckDBGeospatial Analysis with ExcelGeospatial Analysis with PythonGeospatial Analysis with QGISNetwork Analysis in PythonVisualizing Machine LearningProject 2Data VisualizationVisualizing Forecasts with ExcelVisualizing Animated Data with PowerPointVisualizing Animated Data with FlourishVisualizing Network Data with KumuVisualizing Charts with ExcelData Visualization with SeabornGoogle ChartsGoogle Data StudioActor Network VisualizationRAWgraphsData StorytellingInteractive Notebooks: MarimoNarratives with ExcelNarratives with ComicsLive Sessions15 Jan 202516 Jan 202517 Jan 202520 Jan 202521 Jan 202522 Jan 202523 Jan 202528 Jan 202529 Jan 202530 Jan 202531 Jan 202501 Feb 202504 Feb 202506 Feb 202507 Feb 2025",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Jan 2025: Tools in Data Science",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Development ToolsEditor: VS CodePython tools: uvJavaScript tools: npxUnicodeBrowser: DevToolsCSS SelectorsJSONTerminal: BashSpreadsheet: Excel, Google SheetsDatabase: SQLiteVersion Control: Git, GitHub",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "JavaScript tools: npx",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Spreadsheet: Excel, Google Sheets",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Version Control: Git, GitHub",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Deployment ToolsMarkdownImages: CompressionStatic hosting: GitHub PagesNotebooks: Google ColabServerless hosting: VercelCI/CD: GitHub ActionsContainers: Docker, PodmanTunneling: ngrokCORSREST APIsWeb Framework: FastAPILocal LLMs: Llamafile",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Static hosting: GitHub Pages",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Notebooks: Google Colab",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Serverless hosting: Vercel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "CI/CD: GitHub Actions",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Containers: Docker, Podman",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Web Framework: FastAPI",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Local LLMs: Llamafile",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Large Language ModelsPrompt engineeringTDS TA InstructionsTDS GPT ReviewerLLM Sentiment AnalysisLLM Text ExtractionBase 64 EncodingVision ModelsEmbeddingsTopic modelingVector databasesRetrieval Augmented GenerationFunction Calling",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "LLM Sentiment Analysis",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Retrieval Augmented Generation",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data SourcingScraping with ExcelScraping with Google SheetsBBC Weather API with PythonScraping IMDb with JavaScriptNominatim API with PythonWikipedia Data with PythonScraping PDFs with TabulaConvert PDFs to MarkdownLLM Website ScrapingLLM Video Screen-ScrapingScheduled Scraping with GitHub ActionsScraping emarketer.comScraping: Live Sessions",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Scraping with Google Sheets",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "BBC Weather API with Python",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Scraping IMDb with JavaScript",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Nominatim API with Python",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Wikipedia Data with Python",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Scraping PDFs with Tabula",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Convert PDFs to Markdown",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "LLM Video Screen-Scraping",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Scheduled Scraping with GitHub Actions",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Scraping emarketer.com",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Scraping: Live Sessions",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data PreparationData Cleansing in ExcelData Transformation in ExcelSplitting Text in ExcelData Aggregation in ExcelData Preparation in the ShellData Preparation in the EditorCleaning Data with OpenRefineProfiling Data with PythonParsing JSONTransforming ImagesExtracting Audio and Transcripts",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Cleansing in Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Transformation in Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Splitting Text in Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Aggregation in Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Preparation in the Shell",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Preparation in the Editor",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Cleaning Data with OpenRefine",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Profiling Data with Python",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Extracting Audio and Transcripts",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data AnalysisCorrelation with ExcelRegression with ExcelForecasting with ExcelOutlier Detection with ExcelData Analysis with PythonData Analysis with SQLData Analysis with DuckDBGeospatial Analysis with ExcelGeospatial Analysis with PythonGeospatial Analysis with QGISNetwork Analysis in PythonVisualizing Machine Learning",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Correlation with Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Regression with Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Forecasting with Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Outlier Detection with Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Analysis with Python",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Analysis with SQL",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Analysis with DuckDB",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Geospatial Analysis with Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Geospatial Analysis with Python",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Geospatial Analysis with QGIS",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Network Analysis in Python",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Visualizing Machine Learning",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data VisualizationVisualizing Forecasts with ExcelVisualizing Animated Data with PowerPointVisualizing Animated Data with FlourishVisualizing Network Data with KumuVisualizing Charts with ExcelData Visualization with SeabornGoogle ChartsGoogle Data StudioActor Network VisualizationRAWgraphsData StorytellingInteractive Notebooks: MarimoNarratives with ExcelNarratives with Comics",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Visualizing Forecasts with Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Visualizing Animated Data with PowerPoint",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Visualizing Animated Data with Flourish",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Visualizing Network Data with Kumu",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Visualizing Charts with Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Data Visualization with Seaborn",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Actor Network Visualization",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Interactive Notebooks: Marimo",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Narratives with Excel",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Narratives with Comics",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science",
+      "content": "Live Sessions15 Jan 202516 Jan 202517 Jan 202520 Jan 202521 Jan 202522 Jan 202523 Jan 202528 Jan 202529 Jan 202530 Jan 202531 Jan 202501 Feb 202504 Feb 202506 Feb 202507 Feb 2025",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "Tools in Data Science is a practical diploma level data science course at IIT Madras that teaches\npopular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "Courses teach you programming and data science. From statistics to algorithms to writing Python code to building models.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "But one critical subject that\u2019s rarely covered is: what tools should I pick and how do I become proficient in them?",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "These tools might not help your CV much. But they will make things easier in real life. For example, at school:",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "You learn from pristine datasets. But in the industry, you\u2019ll have to scrape them yourself.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "You learn how to train models. But soon, you\u2019ll just pick something from HuggingFace.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "You learn to write a log parser over weeks. Instead, your boss writes a sed + grep script in minutes.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "\u201cWe lost the documentation on quantum mechanics. You\u2019ll have to decode the regexes yourself.\u201d",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "In this course, we\u2019ve curated the most important tools people use in data science.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "Learn them well. You\u2019ll be a lot more productive than your peers.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "Here\u2019s students\u2019 feedback:",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "It used to be an easy course until 2024.\n#\n#\n#",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "Now it\u2019s hard and covers more. Take it in your last semester if possible.\n#\n#\n#",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "Plan extra time. It takes more time than typical 3-credit courses.\n#\n#\n#",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "LLMs grade you \u2013 unpredictably.\n#\n#",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "Take Graded assignment 1 to check if you\u2019re ready for this course. Please drop this course (do it in a later term) if you score low. It\u2019ll be too tough for you now.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "You need a good understanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "But isn\u2019t this a data science course? Yes. Good data scientists are good programmers. Data scientists don\u2019t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "In some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are, some of the time, you need to write code for all of this yourself.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "This course teaches you tools that will make you more productive. But you do need programming to learn many of them.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "You CAN copy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam).",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "Why should you copy? Because in real life, there\u2019s no time to re-invent the wheel. You\u2019ll be working in teams on the shoulders of giants. It\u2019s important to learn how to do that well.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "To learn well, understand what you\u2019re copying. If you\u2019re short of time, prioritize.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Tools in Data Science - Jan 2025",
+      "content": "To learn better, teach what you\u2019ve learnt.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "The content evolves with technology and feedback.\nTrack the commit history for changes.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "Development Tools and concepts to build models and apps. Discussion Thread",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "Deployment Tools and concepts to publish what you built. Discussion Thread",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "Large Language Models that make your work easier and your apps smarter. Discussion Thread",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "Data Sourcing to get data from the web, files, and databases. Discussion Thread",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "Data Preparation to clean up and convert the inputs to the right format. Discussion Thread",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "Project 1 to build an LLM-based automation agent. Discussion Thread",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "Data Analysis to find surprising insights in the data.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "We cover 7 modules in 12 weeks",
+      "content": "Data Visualization to communicate those insights as visual stories.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Evaluations are mostly open Internet",
+      "content": "Exam\nType\nWeight\nRelease Date\nSubmission Date\n\n\n\nGA: Graded assignments\nBest 4 out of 7 \u2021\n15%\n\n\n\n\nGraded Assignment 1\nOnline open MCQ\n\n30 Dec 2024\n26 Jan 2025\n\n\nGraded Assignment 2\nOnline open MCQ\n\n3 Jan 2025\n2 Feb 2025\n\n\nGraded Assignment 3\nOnline open MCQ\n\n15 Jan 2025\n5 Feb 2025\n\n\nGraded Assignment 4\nOnline open MCQ\n\n31 Jan 2025\n9 Feb 2025\n\n\nP1: Project 1\nTake-home open-Internet\n20%\n19 Jan 2025\n16 Feb 2025\n\n\nGraded Assignment 5\nOnline open MCQ\n\n7 Feb 2025\n21 Feb 2025\n\n\nGraded Assignment 6\nOnline open MCQ\n\n28 Feb 2025\n16 Mar 2025\n\n\nP2: Project 2\nTake-home open-Internet\n20%\n3 Mar 2025\n31 Mar 2025\n\n\nGraded Assignment 7\nOnline open MCQ\n\n14 Mar 2025\n26 Mar 2025\n\n\nROE: Remote Online Exam\nOnline open-Internet MCQ\n20%\n02 Mar 2025 13:00\n02 Mar 2025 13:45\n\n\nF: Final end-term\nIn-person, no internet, mandatory\n25%\n13 Apr 2025",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "13 Jan 2025: GA3 release date moved from 10 Jan 2025 to 15 Jan 2025 due to faculty delay. Students have till 2 Feb 2025 - more than the 10 days expected for a GA.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "22 Jan 2025: GA2 submission date moved from 26 Jan 2025 to 2 Feb 2025. GA4 release date is moved from 24 Jan 2025 to 31 Jan 2025. This is to reduce the amount students have to learn in a short period.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "29 Jan 2025: GA3 submission date moved from 2 Feb 2025 to 5 Feb 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "13 Feb 2025: GA5 submission date moved from 16 Feb 2025 to 21 Feb 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "15 Feb 2025: Project 1 deadline moved from 15 Jan 2025 to 16 Feb 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "26 Feb 2025:Project 1 results will be released by 16 Mar 2025.Graded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.Project 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.Graded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "Project 1 results will be released by 16 Mar 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "Graded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "Project 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "Graded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Updates",
+      "content": "7 Mar 2025: GA7 release date moved from 7 Mar to 14 Mar 2025.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "Graded Assignment 1 checks course pre-requisites. Please drop this course (do it in a later term) if you score low. It\u2019ll be too tough for you now.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "\u2021 Graded Assignments: Best 4 out 7. We\u2019ll take the best 4 out of your graded assignments submissions. These, combined, will have a 15% weightage.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "Remote exams are open and hardYou can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets\u2026The RoE is especially hard. Read: What is the purpose of an impossible RoE exam?",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "You can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets\u2026",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "The RoE is especially hard. Read: What is the purpose of an impossible RoE exam?",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "Final exam is in-person and closed book. It tests your memory. It\u2019s easy.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "Projects test application. The projects test how well you apply what you learnt in a real-world context.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "Bonus activities may be posted on Discourse. See previous bonus activities",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "Evaluations are mostly automated. This course uses pre-computed (for objective) or LLMs (for subjective) evaluations.LLMs will evaluate you differently each time. Learn to prompt them robustly to get higher marks.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Notes",
+      "content": "LLMs will evaluate you differently each time. Learn to prompt them robustly to get higher marks.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Constantly check communications",
+      "content": "Check these three links regularly to keep up with the course.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Constantly check communications",
+      "content": "Seek Inbox for Course Announcements. Log into seek.onlinedegree.iitm.ac.in and click on \u201cInbox\u201d on the left. Check notifications daily.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Constantly check communications",
+      "content": "Your email for Course Announcements. Seek Inbox are forwarded to your email. Check daily. Check spam folders too.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Constantly check communications",
+      "content": "TDS Discourse: Faculty, instructors, and TAs will share updates and address queries here. Email support@study.iitm.ac.in cc: discourse-staff1@study.iitm.ac.in if you can\u2019t access Discourse.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Faculty (who design the course)Anand S,\ns.anand@gramener.com |\n@s.anand",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Anand S,\ns.anand@gramener.com |\n@s.anand",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Instructors (who teach the course)Carlton D\u2019Silva.\n22f3001919@ds.study.iitm.ac.in |\n@carltonPrasanna S,\nprasanna@study.iitm.ac.in |\n@iamprasna",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Carlton D\u2019Silva.\n22f3001919@ds.study.iitm.ac.in |\n@carlton",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Prasanna S,\nprasanna@study.iitm.ac.in |\n@iamprasna",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Teaching assistants (who help you with your doubts)Jivraj Singh,\n22f3002542@ds.study.iitm.ac.in |\n@Jivraj |\nLinkedIn ProfileSaransh Saini,\n22f1001123@ds.study.iitm.ac.in |\n@Saransh_Saini |\nLinkedIn ProfileVirtual TA\n(GPT Instructions)",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Jivraj Singh,\n22f3002542@ds.study.iitm.ac.in |\n@Jivraj |\nLinkedIn Profile",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Saransh Saini,\n22f1001123@ds.study.iitm.ac.in |\n@Saransh_Saini |\nLinkedIn Profile",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Virtual TA\n(GPT Instructions)",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "People who help you",
+      "content": "Their job is to help you. Trouble them for your slightest doubts!",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Course Links",
+      "content": "TDS Discourse - Ask questions, get help, and discuss with your peers.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Course Links",
+      "content": "IITM BS Degree Programme - Student Handbook",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Course Links",
+      "content": "Tools in Data Science Public course home page",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Jan 2025 Links",
+      "content": "Jan 2025 Grading Document.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Jan 2025 Links",
+      "content": "TDS: Course page - Jan 2025 \u2013 for students to access course content.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Jan 2025 Links",
+      "content": "TDS: Course calendar - Jan 2025",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Jan 2025 Links",
+      "content": "TDS: Announcement group - Jan 2025",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Jan 2025 Links",
+      "content": "TDS: Course material \u2013 Jupyter notebooks, datasets, etc.",
+      "source": "TDS Course Content"
+    },
+    {
+      "type": "course",
+      "section": "Jan 2025 Links",
+      "content": "TDS: TA Sessions - Jan 2025 \u2013 YouTube playlist",
+      "source": "TDS Course Content"
+    }
+  ],
+  "discourse_data": [
+    {
+      "type": "discourse",
+      "title": "TDS project 1,I face ambiguati to make this project,how can I start?",
+      "content": "TDS project 1,I face ambiguati to make this project,how can I start?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-project-1-i-face-ambiguati-to-make-this-project-how-can-i-start/154294",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Lost data in laptop while working on Git bash",
+      "content": "Lost data in laptop while working on Git bash",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/lost-data-in-laptop-while-working-on-git-bash/175382",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Https://exam.sanand.workers.dev/project-tds-virtual-ta-promptfoo.yaml is not opened",
+      "content": "Https://exam.sanand.workers.dev/project-tds-virtual-ta-promptfoo.yaml is not opened",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/https-exam-sanand-workers-dev-project-tds-virtual-ta-promptfoo-yaml-is-not-opened/177666",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Which subject to choose in jan term",
+      "content": "Which subject to choose in jan term",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/which-subject-to-choose-in-jan-term/161071",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA2 - Deployment Tools - Discussion Thread [TDS May 2025]",
+      "content": "GA2 - Deployment Tools - Discussion Thread [TDS May 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-may-2025/173525",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+      "content": "GA3 - Large Language Models - Discussion Thread [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-jan-2025/163247",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Error for Vector Databases (1 mark)",
+      "content": "Error for Vector Databases (1 mark)",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/error-for-vector-databases-1-mark/176823",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 deadline extension",
+      "content": "Project 1 deadline extension",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-deadline-extension/176644",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Subject: Request for Clarification on Assignment Submission Status (GA1, GA2, GA3)",
+      "content": "Subject: Request for Clarification on Assignment Submission Status (GA1, GA2, GA3)",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/subject-request-for-clarification-on-assignment-submission-status-ga1-ga2-ga3/176851",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "content": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-may-2025/173524",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Vercel deployement error",
+      "content": "Vercel deployement error",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/vercel-deployement-error/176789",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Tds: assignment is not submitting",
+      "content": "Tds: assignment is not submitting",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-is-not-submitting/166189",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "LLM CLI Tool Error\u2013 Model Authentication Issue with Models other OpenAI models",
+      "content": "LLM CLI Tool Error\u2013 Model Authentication Issue with Models other OpenAI models",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/llm-cli-tool-error-model-authentication-issue-with-models-other-openai-models/176603",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS marks not updated on portal",
+      "content": "TDS marks not updated on portal",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-marks-not-updated-on-portal/176243",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Github actions - Error while running the demo shown in video",
+      "content": "Github actions - Error while running the demo shown in video",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/github-actions-error-while-running-the-demo-shown-in-video/176357",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Clarification on Email ID for GitHub Account Submission for TDS Course Assignment",
+      "content": "Clarification on Email ID for GitHub Account Submission for TDS Course Assignment",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/clarification-on-email-id-for-github-account-submission-for-tds-course-assignment/176323",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Issue Creating Google Cloud Project \u2013 \"You must select a parent organization or folder\" (Module 2, Q11 - TDS)",
+      "content": "Issue Creating Google Cloud Project \u2013 \"You must select a parent organization or folder\" (Module 2, Q11 - TDS)",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/issue-creating-google-cloud-project-you-must-select-a-parent-organization-or-folder-module-2-q11-tds/176223",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Week 1 graded assignment deadline?",
+      "content": "Week 1 graded assignment deadline?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/week-1-graded-assignment-deadline/176285",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "How/When the assignment score is displayed",
+      "content": "How/When the assignment score is displayed",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/how-when-the-assignment-score-is-displayed/175677",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "How to opt out of TDS? I find it too difficult at this level",
+      "content": "How to opt out of TDS? I find it too difficult at this level",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/how-to-opt-out-of-tds-i-find-it-too-difficult-at-this-level/175735",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Recorded Sessions for TDS",
+      "content": "Recorded Sessions for TDS",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/recorded-sessions-for-tds/175897",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Barebones Summary of Week 1- Mind Map",
+      "content": "Barebones Summary of Week 1- Mind Map",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/barebones-summary-of-week-1-mind-map/175282",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS Course Material - Suggested Rectifications",
+      "content": "TDS Course Material - Suggested Rectifications",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-course-material-suggested-rectifications/175427",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Google Cloud Platform",
+      "content": "Google Cloud Platform",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/google-cloud-platform/175459",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS-Can I drop this recourse with fee refund now?",
+      "content": "TDS-Can I drop this recourse with fee refund now?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-can-i-drop-this-recourse-with-fee-refund-now/175178",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "When running this 'llm embed -c 'My email is 23f2001697@ds.study.iitm.ac.in' -m 3-small' this shows insufficient_quota but I have prompt the model just 2-3 times",
+      "content": "When running this 'llm embed -c 'My email is 23f2001697@ds.study.iitm.ac.in' -m 3-small' this shows insufficient_quota but I have prompt the model just 2-3 times",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/when-running-this-llm-embed-c-my-email-is-23f2001697-ds-study-iitm-ac-in-m-3-small-this-shows-insufficient-quota-but-i-have-prompt-the-model-just-2-3-times/174414",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS - Doubts - Specific Points to be Covered in Sunday's Session",
+      "content": "TDS - Doubts - Specific Points to be Covered in Sunday's Session",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-doubts-specific-points-to-be-covered-in-sundays-session/175287",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Issue with validating the output of the GA1 question no 20 SQL: Average Order Value (0.75 marks)",
+      "content": "Issue with validating the output of the GA1 question no 20 SQL: Average Order Value (0.75 marks)",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/issue-with-validating-the-output-of-the-ga1-question-no-20-sql-average-order-value-0-75-marks/175272",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Increasing my qouta for TDS Openai Api Key",
+      "content": "Increasing my qouta for TDS Openai Api Key",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/increasing-my-qouta-for-tds-openai-api-key/175219",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Getting error AI PIPE",
+      "content": "Getting error AI PIPE",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/getting-error-ai-pipe/174255",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS Live Session recording",
+      "content": "TDS Live Session recording",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-live-session-recording/174594",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Request for Session Recordings \u2013 10th & 11th May (Tools in Data Science)",
+      "content": "Request for Session Recordings \u2013 10th & 11th May (Tools in Data Science)",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-for-session-recordings-10th-11th-may-tools-in-data-science/174384",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Graded assignment week 1",
+      "content": "Graded assignment week 1",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/graded-assignment-week-1/174447",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "15 May Class Clashing with MLF Class",
+      "content": "15 May Class Clashing with MLF Class",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/15-may-class-clashing-with-mlf-class/174380",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA1 - Development Tools - Discussion Thread [TDS Jan 2025]",
+      "content": "GA1 - Development Tools - Discussion Thread [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Guide me how to complete TDS course",
+      "content": "Guide me how to complete TDS course",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/guide-me-how-to-complete-tds-course/173555",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+      "content": "Project 1 Evaluation second mail is not correct and reports files missing while they are present",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-evaluation-second-mail-is-not-correct-and-reports-files-missing-while-they-are-present/171477",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "URGENT ATTN REQ: technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2",
+      "content": "URGENT ATTN REQ: technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/urgent-attn-req-technical-discrepancy-and-inconsistency-in-the-evaluation-scripts-of-graded-assignment-and-project-2/173172",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "My Feedback for this Course",
+      "content": "My Feedback for this Course",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/my-feedback-for-this-course/160097",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Regarding Scores of TDS",
+      "content": "Regarding Scores of TDS",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-scores-of-tds/173347",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 2 - TDS Solver - Discussion Thread",
+      "content": "Project 2 - TDS Solver - Discussion Thread",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-tds-solver-discussion-thread/169029",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Course experience and farewell post",
+      "content": "Course experience and farewell post",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/course-experience-and-farewell-post/173247",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "URGENT ATTN REQ: Another technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2",
+      "content": "URGENT ATTN REQ: Another technical discrepancy and inconsistency in the evaluation scripts of graded assignment and project 2",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/urgent-attn-req-another-technical-discrepancy-and-inconsistency-in-the-evaluation-scripts-of-graded-assignment-and-project-2/173175",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS Total discrepancy",
+      "content": "TDS Total discrepancy",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-total-discrepancy/173208",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Wrong Score and Wrong Calculation in Dashboard",
+      "content": "Wrong Score and Wrong Calculation in Dashboard",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-score-and-wrong-calculation-in-dashboard/173207",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Incorrect Final Score and Grade in TDS dashboard",
+      "content": "Incorrect Final Score and Grade in TDS dashboard",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/incorrect-final-score-and-grade-in-tds-dashboard/173209",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "URGENT wrong score on dashboard",
+      "content": "URGENT wrong score on dashboard",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/urgent-wrong-score-on-dashboard/173206",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Queries regarding End Term exam solutions",
+      "content": "Queries regarding End Term exam solutions",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/queries-regarding-end-term-exam-solutions/172707",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Error in requesting method",
+      "content": "Error in requesting method",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/error-in-requesting-method/172916",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Are the grades released?",
+      "content": "Are the grades released?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/are-the-grades-released/173155",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Tds-official-Project1-discrepencies",
+      "content": "Tds-official-Project1-discrepencies",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-official-project1-discrepencies/171141",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Urgent Attn Needed: Project 2 Discrepency for GA2_q3 and GA1_q18",
+      "content": "Urgent Attn Needed: Project 2 Discrepency for GA2_q3 and GA1_q18",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/urgent-attn-needed-project-2-discrepency-for-ga2-q3-and-ga1-q18/173113",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 2 score discrepancy",
+      "content": "Project 2 score discrepancy",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-score-discrepancy/172832",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "[TDS Jan 2025 official announcement] All score discrepancies",
+      "content": "[TDS Jan 2025 official announcement] All score discrepancies",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-jan-2025-official-announcement-all-score-discrepancies/173025",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Bonus Marks in TDS for Jan 25",
+      "content": "Bonus Marks in TDS for Jan 25",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/bonus-marks-in-tds-for-jan-25/172246",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Evaluation Logs for Project 2",
+      "content": "Evaluation Logs for Project 2",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/evaluation-logs-for-project-2/173028",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GAA went from 103 to 100",
+      "content": "GAA went from 103 to 100",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/gaa-went-from-103-to-100/172865",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Tds project 2 evaluation pending",
+      "content": "Tds project 2 evaluation pending",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-project-2-evaluation-pending/172915",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Issue with TDS Project 2 \u2013 Score Assigned as 0 Despite Working Submission",
+      "content": "Issue with TDS Project 2 \u2013 Score Assigned as 0 Despite Working Submission",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/issue-with-tds-project-2-score-assigned-as-0-despite-working-submission/172897",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "END TERM MOCK [TDS Jan 25]",
+      "content": "END TERM MOCK [TDS Jan 25]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/end-term-mock-tds-jan-25/172333",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "What to do if peer has not allowed access and the deadline is over for peer review in Project 2",
+      "content": "What to do if peer has not allowed access and the deadline is over for peer review in Project 2",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/what-to-do-if-peer-has-not-allowed-access-and-the-deadline-is-over-for-peer-review-in-project-2/172471",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 : not submitted issue",
+      "content": "Project 1 : not submitted issue",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-not-submitted-issue/172497",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA7 - Data Visualisation - Discussion Thread [TDS Jan 2025]",
+      "content": "GA7 - Data Visualisation - Discussion Thread [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga7-data-visualisation-discussion-thread-tds-jan-2025/169888",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS - GA7 - Score missing",
+      "content": "TDS - GA7 - Score missing",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-ga7-score-missing/171500",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "\ud83d\udcdc According to TDS Rule 14(b):",
+      "content": "\ud83d\udcdc According to TDS Rule 14(b):",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/according-to-tds-rule-14-b/172254",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 solution repository link",
+      "content": "Project 1 solution repository link",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-solution-repository-link/171999",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 discrepancy regarding mit license",
+      "content": "Project 1 discrepancy regarding mit license",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-discrepancy-regarding-mit-license/171485",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 - LLM-based Automation Agent - Discussion Thread [TDS Jan 2025]",
+      "content": "Project 1 - LLM-based Automation Agent - Discussion Thread [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 tds score not showing i",
+      "content": "Project 1 tds score not showing i",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-tds-score-not-showing-i/168916",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Peer review clarificaiton",
+      "content": "Peer review clarificaiton",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/peer-review-clarificaiton/171541",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Clarification on API Endpoint Correction in Submission",
+      "content": "Clarification on API Endpoint Correction in Submission",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/clarification-on-api-endpoint-correction-in-submission/171525",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA7: Peer Grading Clarification",
+      "content": "GA7: Peer Grading Clarification",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga7-peer-grading-clarification/171515",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 2: How to test questions from the GA's",
+      "content": "Project 2: How to test questions from the GA's",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-how-to-test-questions-from-the-gas/171422",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Scores and End Semester exam",
+      "content": "Scores and End Semester exam",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/scores-and-end-semester-exam/171473",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Request for Extension on TDS Project 2 Deadline",
+      "content": "Request for Extension on TDS Project 2 Deadline",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-for-extension-on-tds-project-2-deadline/171428",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Successfully Completed TDS Project 2 \u2013 Seeking Feedback & Demonstration Session",
+      "content": "Successfully Completed TDS Project 2 \u2013 Seeking Feedback & Demonstration Session",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/successfully-completed-tds-project-2-seeking-feedback-demonstration-session/171054",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "[TDS JAN 25] Imp. Announcement for Project 2",
+      "content": "[TDS JAN 25] Imp. Announcement for Project 2",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-jan-25-imp-announcement-for-project-2/170413",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Concerns Regarding Various Issues: Graded Assignments, Project Doubts, and ROE Score Updates",
+      "content": "Concerns Regarding Various Issues: Graded Assignments, Project Doubts, and ROE Score Updates",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-various-issues-graded-assignments-project-doubts-and-roe-score-updates/170147",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Problem with TDS GA Scores",
+      "content": "Problem with TDS GA Scores",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/problem-with-tds-ga-scores/170131",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Clarification on Passing Criteria for TDS \u2013 January 2025 Term",
+      "content": "Clarification on Passing Criteria for TDS \u2013 January 2025 Term",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/clarification-on-passing-criteria-for-tds-january-2025-term/169807",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Programming Quiz 1 in Student Dashboard (label for ROE scores) - showing absent or incorrect",
+      "content": "Programming Quiz 1 in Student Dashboard (label for ROE scores) - showing absent or incorrect",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/programming-quiz-1-in-student-dashboard-label-for-roe-scores-showing-absent-or-incorrect/169369",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Remote Online Exam [TDS Jan 2025]",
+      "content": "Remote Online Exam [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/remote-online-exam-tds-jan-2025/168832",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Revised dates [TDS Jan 2025]",
+      "content": "Revised dates [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/revised-dates-tds-jan-2025/168506",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Thursday live session",
+      "content": "Thursday live session",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/thursday-live-session/169393",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Live session recorded or not",
+      "content": "Live session recorded or not",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/live-session-recorded-or-not/169456",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Solve this roe mistake pls",
+      "content": "Solve this roe mistake pls",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/solve-this-roe-mistake-pls/169352",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA5 - Data Preparation - Discussion Thread [TDS Jan 2025]",
+      "content": "GA5 - Data Preparation - Discussion Thread [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Disparity in TDS GA 5 scores",
+      "content": "Disparity in TDS GA 5 scores",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/disparity-in-tds-ga-5-scores/169247",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "What's the actual purpose of impossible ROE exam?",
+      "content": "What's the actual purpose of impossible ROE exam?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Mock ROE 1, 2, 3, 4 [TDS Jan 2025]",
+      "content": "Mock ROE 1, 2, 3, 4 [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/mock-roe-1-2-3-4-tds-jan-2025/168449",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 2 - TDS Solver - Shared Data Pool",
+      "content": "Project 2 - TDS Solver - Shared Data Pool",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-tds-solver-shared-data-pool/169045",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "ROE timing overlaps with Java OPPE",
+      "content": "ROE timing overlaps with Java OPPE",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-timing-overlaps-with-java-oppe/168537",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Unable to attend the ROE",
+      "content": "Unable to attend the ROE",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/unable-to-attend-the-roe/168987",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "ROE Common Snippets Repo Feb 2025",
+      "content": "ROE Common Snippets Repo Feb 2025",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-common-snippets-repo-feb-2025/168901",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Not recieved the roe link mail",
+      "content": "Not recieved the roe link mail",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/not-recieved-the-roe-link-mail/168825",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Is it fair to consider 20% weightage of such exam which is impossible to solve in given time (i.e. ROE)",
+      "content": "Is it fair to consider 20% weightage of such exam which is impossible to solve in given time (i.e. ROE)",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+      "content": "Concerns Regarding TDS Course Difficulty and Grading Fairness",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-tds-course-difficulty-and-grading-fairness/168476",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Opening previous ga just for practise",
+      "content": "Opening previous ga just for practise",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/opening-previous-ga-just-for-practise/168515",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Create a Question solving groups for ROE",
+      "content": "Create a Question solving groups for ROE",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/create-a-question-solving-groups-for-roe/168567",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Clarification regarding Mock ROE Timings",
+      "content": "Clarification regarding Mock ROE Timings",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/clarification-regarding-mock-roe-timings/168384",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Tds roe exam date shift",
+      "content": "Tds roe exam date shift",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-roe-exam-date-shift/168458",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Q3, GA5 not accepting right answer",
+      "content": "Q3, GA5 not accepting right answer",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/q3-ga5-not-accepting-right-answer/168011",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Request for a functionality to revise the GAs of TDS",
+      "content": "Request for a functionality to revise the GAs of TDS",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-for-a-functionality-to-revise-the-gas-of-tds/168310",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 2 and Week 6 assignment",
+      "content": "Project 2 and Week 6 assignment",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-2-and-week-6-assignment/168303",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "ROE instructions request",
+      "content": "ROE instructions request",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/roe-instructions-request/168142",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]",
+      "content": "GA4 - Data Sourcing - Discussion Thread [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "My score are still not updated",
+      "content": "My score are still not updated",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/my-score-are-still-not-updated/168143",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "QUESTION 9 of TDS WEEK 5 GA",
+      "content": "QUESTION 9 of TDS WEEK 5 GA",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/question-9-of-tds-week-5-ga/168057",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA5 Score Not Reflecting in The Page After Deadline",
+      "content": "GA5 Score Not Reflecting in The Page After Deadline",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-score-not-reflecting-in-the-page-after-deadline/168017",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Graded Assignments Dashboard Scores Incorrect/Missing",
+      "content": "Graded Assignments Dashboard Scores Incorrect/Missing",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/graded-assignments-dashboard-scores-incorrect-missing/166816",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Inconsistent information in the Grading Document and the website",
+      "content": "Inconsistent information in the Grading Document and the website",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/inconsistent-information-in-the-grading-document-and-the-website/167679",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 - Casual banter",
+      "content": "Project 1 - Casual banter",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-casual-banter/167344",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "IMPORTANT: Dockerfile submitted as dockerfile rest everything is working fine",
+      "content": "IMPORTANT: Dockerfile submitted as dockerfile rest everything is working fine",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/important-dockerfile-submitted-as-dockerfile-rest-everything-is-working-fine/167415",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Project 1 Submission Marked as FAIL Despite Having Dockerfile & Image",
+      "content": "Project 1 Submission Marked as FAIL Despite Having Dockerfile & Image",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-submission-marked-as-fail-despite-having-dockerfile-image/167471",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Request to Consider My Last Submission for TDS Project 1",
+      "content": "Request to Consider My Last Submission for TDS Project 1",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-to-consider-my-last-submission-for-tds-project-1/167410",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Just some background test",
+      "content": "Just some background test",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/just-some-background-test/167699",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "--Request for postponing the Project -1 deadline-- Official Response: Extended :)",
+      "content": "--Request for postponing the Project -1 deadline-- Official Response: Extended :)",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/request-for-postponing-the-project-1-deadline-official-response-extended/166866",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Regarding project1 for file not detecting after sending post request",
+      "content": "Regarding project1 for file not detecting after sending post request",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-project1-for-file-not-detecting-after-sending-post-request/167172",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS Project 1 release information required",
+      "content": "TDS Project 1 release information required",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-project-1-release-information-required/164214",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Regarding Github Mail For Project",
+      "content": "Regarding Github Mail For Project",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-github-mail-for-project/166891",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Sudo permission needed to create data folder in root?",
+      "content": "Sudo permission needed to create data folder in root?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/sudo-permission-needed-to-create-data-folder-in-root/167072",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Where can i find the TDS GA1 after the submission date has passed?",
+      "content": "Where can i find the TDS GA1 after the submission date has passed?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/where-can-i-find-the-tds-ga1-after-the-submission-date-has-passed/165416",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Questions closed (GA)",
+      "content": "Questions closed (GA)",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/questions-closed-ga/165433",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "GA2 - Deployment Tools - Discussion Thread [TDS Jan 2025]",
+      "content": "GA2 - Deployment Tools - Discussion Thread [TDS Jan 2025]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga2-deployment-tools-discussion-thread-tds-jan-2025/161120",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "LLM what rocket science going on here",
+      "content": "LLM what rocket science going on here",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/llm-what-rocket-science-going-on-here/166303",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Reattempt Graded Assignment after deadline",
+      "content": "Reattempt Graded Assignment after deadline",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/reattempt-graded-assignment-after-deadline/166349",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Meet with Anand (TDS Faculty), Wed 5 Feb, 10:30 am - 2:30 pm",
+      "content": "Meet with Anand (TDS Faculty), Wed 5 Feb, 10:30 am - 2:30 pm",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/meet-with-anand-tds-faculty-wed-5-feb-10-30-am-2-30-pm/165687",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Graded assignment 1 - Submission not shown",
+      "content": "Graded assignment 1 - Submission not shown",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/graded-assignment-1-submission-not-shown/165396",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Best Practices for Virtual Environments and Dependency Management in Python",
+      "content": "Best Practices for Virtual Environments and Dependency Management in Python",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/best-practices-for-virtual-environments-and-dependency-management-in-python/165922",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Live Session Agenda - 30/01/2025",
+      "content": "Live Session Agenda - 30/01/2025",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/live-session-agenda-30-01-2025/165830",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Live sessions regarding Project 1",
+      "content": "Live sessions regarding Project 1",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/live-sessions-regarding-project-1/165593",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Tds jan 2025 calender accesss and video lecture access in portal",
+      "content": "Tds jan 2025 calender accesss and video lecture access in portal",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-jan-2025-calender-accesss-and-video-lecture-access-in-portal/163158",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Agenda for Today's Live Session [Flask Tutorial]",
+      "content": "Agenda for Today's Live Session [Flask Tutorial]",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/agenda-for-todays-live-session-flask-tutorial/164869",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Drop Course window for TDS",
+      "content": "Drop Course window for TDS",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/drop-course-window-for-tds/164737",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS - Assignment week 2",
+      "content": "TDS - Assignment week 2",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-assignment-week-2/164462",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Agenda for Today's(21/01/2025) session",
+      "content": "Agenda for Today's(21/01/2025) session",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/agenda-for-todays-21-01-2025-session/164460",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Regarding droping from TDS",
+      "content": "Regarding droping from TDS",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-droping-from-tds/164291",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Issues In TDS And Replacement with another course",
+      "content": "Issues In TDS And Replacement with another course",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/issues-in-tds-and-replacement-with-another-course/164147",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Score keeps resetting to 0",
+      "content": "Score keeps resetting to 0",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/score-keeps-resetting-to-0/163765",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TA Sessions youtube links",
+      "content": "TA Sessions youtube links",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ta-sessions-youtube-links/164089",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Regarding EXTRA MATERIAL/INFORMATION/RESOURCES for the upcoming project",
+      "content": "Regarding EXTRA MATERIAL/INFORMATION/RESOURCES for the upcoming project",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/regarding-extra-material-information-resources-for-the-upcoming-project/163241",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Answers are not getting saved",
+      "content": "Answers are not getting saved",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/answers-are-not-getting-saved/163224",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS iitm certified books",
+      "content": "TDS iitm certified books",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-iitm-certified-books/163147",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Can I take the end-term exam without submitting assignments if I missed it due to an emergency?",
+      "content": "Can I take the end-term exam without submitting assignments if I missed it due to an emergency?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/can-i-take-the-end-term-exam-without-submitting-assignments-if-i-missed-it-due-to-an-emergency/161072",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Way of conduction of exam",
+      "content": "Way of conduction of exam",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/way-of-conduction-of-exam/163144",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "TDS calendar link not found",
+      "content": "TDS calendar link not found",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/tds-calendar-link-not-found/162425",
+      "date": "",
+      "source": "Discourse Post"
+    },
+    {
+      "type": "discourse",
+      "title": "Contribute to My Open-Source LLM Classroom Assignment Evaluator",
+      "content": "Contribute to My Open-Source LLM Classroom Assignment Evaluator",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/contribute-to-my-open-source-llm-classroom-assignment-evaluator/161214",
+      "date": "",
+      "source": "Discourse Post"
+    }
+  ]
+}
