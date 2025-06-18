@@ -73,7 +73,7 @@ class TDSDataProcessor:
     
     def search(self, query, top_k=5):
         """Search for relevant content"""
-        if not self.tfidf_matrix:
+        if self.tfidf_matrix is None or self.tfidf_matrix.shape[0] == 0:
             return []
         
         query_vector = self.vectorizer.transform([query])
@@ -92,6 +92,7 @@ class TDSDataProcessor:
                 results.append(item)
         
         return results
+
     
     def save_processed_data(self, filename):
         """Save processed data and search index"""
