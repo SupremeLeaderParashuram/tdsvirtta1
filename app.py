@@ -180,6 +180,10 @@ async def health_check():
 async def root():
     return {"message": "TDS Virtual TA is running."}
 
+@app.post("/")
+async def dummy_post():
+    return {"message": "POST to root received. Use /api/ instead."}
+
 
 #if __name__ == "__main__":
   #uvicorn.run(app, host="0.0.0.0", port=8000)
