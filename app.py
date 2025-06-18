@@ -10,9 +10,18 @@ from PIL import Image
 import io
 import google.generativeai as genai
 from openai import OpenAI
+from fastapi.middleware.cors import CORSMiddleware
+
+
 
 app = FastAPI(title="TDS Virtual TA", version="1.0.0")
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # or ["https://whatever.evaluator.site"]
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 # Initialize data processor
 processor = TDSDataProcessor()
 
