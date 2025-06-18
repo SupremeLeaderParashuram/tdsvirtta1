@@ -180,9 +180,12 @@ async def health_check():
 async def root():
     return {"message": "TDS Virtual TA is running."}
 
-@app.post("/")
-async def dummy_post():
-    return {"message": "POST to root received. Use /api/ instead."}
+@app.post("/", response_model=AnswerResponse)
+async def dummy_root():
+    return AnswerResponse(
+        answer="This is a placeholder answer. Use the `/api/` endpoint for real queries.",
+        links=[]
+    )
 
 
 #if __name__ == "__main__":
