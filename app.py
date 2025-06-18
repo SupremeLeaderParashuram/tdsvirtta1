@@ -132,7 +132,7 @@ class TDSVirtualTA:
                 return f"Based on similar issues in the forums: {error_context['content'][:200]}..."
         
         # General answer based on context
-        if context:
+        if context is not None and len(context) > 0:
             return f"Based on the course materials: {context[0]['content'][:200]}... Please refer to the linked resources for more details."
         
         return "I couldn't find specific information about this question in the course materials. Please check the course content or ask in the forums for clarification."
@@ -148,7 +148,7 @@ async def answer_question(request: QuestionRequest):
             image_description = virtual_ta.process_image(request.image)
         
         # Search for relevant content
-        search_results = processor.search(request.question, top_k=5)
+        search_results = processor.search(request.question, top_k=5) or  []
         
         # Generate answer
         answer = virtual_ta.generate_answer(request.question, search_results, image_description)
